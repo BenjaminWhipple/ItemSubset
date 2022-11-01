@@ -1,0 +1,11 @@
+Package: BestSubset
+Type: Package
+Title: Choose the best subset of survey items for a given measure.
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <whipplebenjamin9@gmail.com>
+Description: Reduce the number of items used for an additive measure.
+License: GPLv3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
